@@ -4,9 +4,9 @@
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
-<p align="left" style="font-size: 1.5em;"><strong>🔍 About Me</strong></p>
+<p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>🔍 About Me</strong></p>
 
-<p align="left">
+<p align="left" style="font-size: 1.2em;">
 &bull; 🎓 Master's degree in Administration with a specialization in Criminology and Related Sciences<br>
 &bull; 💼 Currently enhancing my expertise through a comprehensive Java Developer training course<br>
 &bull; 🌱 Constantly seeking to expand my knowledge and keep abreast of the latest technological advancements<br>
@@ -17,9 +17,9 @@
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
-<p align="left" style="font-size: 1.5em;"><strong>💻 Technology Stack</strong></p>
+<p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>💻 Technology Stack</strong></p>
 
-<p align="left">
+<p align="left" style="font-size: 1.2em;">
 &bull; Languages: 🚀 Java<br>
 &bull; Frameworks: 🛠️ Spring Boot, 🔒 Spring Security<br>
 &bull; Persistence Frameworks: 🔄 Hibernate, 📊 Spring Data JPA<br>
@@ -33,17 +33,17 @@
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
-<p align="left" style="font-size: 1.5em;"><strong>🚀 Projects</strong></p>
+<p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>🚀 Projects</strong></p>
 
-<p align="left">
+<p align="left" style="font-size: 1.2em;">
 &bull; <a href="https://github.com/Kalixone/BookstoreAPP">Book Store</a> project is a Java Spring-based RESTful API designed for managing online bookstores. It includes essential endpoints for adding new books, updating details, managing shopping carts, placing orders, and ensuring secure user authentication and authorization.
 </p>
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
-<p align="left" style="font-size: 1.5em;"><strong>📫 Feel free to reach out if you have any questions or need assistance!</strong></p>
+<p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>📫 Feel free to reach out if you have any questions or need assistance!</strong></p>
 
-<p align="left">
+<p align="left" style="font-size: 1.2em;">
 &bull; <a href="https://www.linkedin.com/in/piotr-kaliszuk-63a9a3318/">LinkedIn</a><br>
 &bull; <a href="mailto:piotr.kamil.kaliszuk@gmail.com">piotr.kamil.kaliszuk@gmail.com</a>
 </p>
