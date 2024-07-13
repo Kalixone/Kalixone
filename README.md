@@ -1,5 +1,7 @@
 <p align="left" style="font-size: 1.5em;"><strong>Hi there! 👋 I'm Piotr</strong></p>
 
+<p align="left">Hi! I'm a Java Developer with a passion for crafting clean and effective code. Beyond coding challenges, I enjoy immersing myself in movie critiques and discussions, seeing how storytelling in films can inform and inspire my approach to software development.</p>
+
 <hr style="border-top: 1px dashed #8c8b8b;">
 
 <p align="left" style="font-size: 1.2em;"><strong>🔍 About Me</strong></p>
@@ -34,7 +36,7 @@
 <p align="left" style="font-size: 1.2em;"><strong>🚀 Projects</strong></p>
 
 <p align="left">
-"Book Store project is a Java Spring-based RESTful API designed for managing online bookstores. It includes essential endpoints for adding new books, updating details, managing shopping carts, placing orders, and ensuring secure user authentication and authorization.
+&bull; "Book Store" project is a Java Spring-based RESTful API designed for managing online bookstores. It includes essential endpoints for adding new books, updating details, managing shopping carts, placing orders, and ensuring secure user authentication and authorization. <a href="https://github.com/Kalixone/BookstoreAPP">Book Store</a><br>
 </p>
 
 <hr style="border-top: 1px dashed #8c8b8b;">
@@ -42,6 +44,6 @@
 <p align="left" style="font-size: 1.2em;"><strong>📫 Feel free to reach out if you have any questions or need assistance!</strong></p>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/piotr-kaliszuk-63a9a3318/">LinkedIn</a><br>
-<a href="mailto:piotr.kamil.kaliszuk@gmail.com">piotr.kamil.kaliszuk@gmail.com</a>
+&bull; <a href="https://www.linkedin.com/in/piotr-kaliszuk-63a9a3318/">LinkedIn</a><br>
+&bull; <a href="mailto:piotr.kamil.kaliszuk@gmail.com">piotr.kamil.kaliszuk@gmail.com</a>
 </p>
