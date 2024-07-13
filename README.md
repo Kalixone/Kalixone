@@ -1,10 +1,10 @@
-<p align="left" style="font-size: 1.5em;"><strong>Hi there! 👋 I'm Piotr</strong></p>
+<p align="left" style="font-size: 1.8em;"><strong>Hi there! 👋 I'm Piotr</strong></p>
 
 <p align="left">Hi! I'm a Java Developer with a passion for crafting clean and effective code. Beyond coding challenges, I enjoy immersing myself in movie critiques and discussions, seeing how storytelling in films can inform and inspire my approach to software development.</p>
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
-<p align="left" style="font-size: 1.2em;"><strong>🔍 About Me</strong></p>
+<p align="left" style="font-size: 1.5em;"><strong>🔍 About Me</strong></p>
 
 <p align="left">
 &bull; 🎓 Master's degree in Administration with a specialization in Criminology and Related Sciences<br>
@@ -17,7 +17,7 @@
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
-<p align="left" style="font-size: 1.2em;"><strong>💻 Technology Stack</strong></p>
+<p align="left" style="font-size: 1.5em;"><strong>💻 Technology Stack</strong></p>
 
 <p align="left">
 &bull; Languages: 🚀 Java<br>
@@ -33,15 +33,15 @@
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
-<p align="left" style="font-size: 1.2em;"><strong>🚀 Projects</strong></p>
+<p align="left" style="font-size: 1.5em;"><strong>🚀 Projects</strong></p>
 
 <p align="left">
-&bull; "Book Store" project is a Java Spring-based RESTful API designed for managing online bookstores. It includes essential endpoints for adding new books, updating details, managing shopping carts, placing orders, and ensuring secure user authentication and authorization. <a href="https://github.com/Kalixone/BookstoreAPP">Book Store</a><br>
+&bull; <a href="https://github.com/Kalixone/BookstoreAPP">Book Store</a> project is a Java Spring-based RESTful API designed for managing online bookstores. It includes essential endpoints for adding new books, updating details, managing shopping carts, placing orders, and ensuring secure user authentication and authorization.
 </p>
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
-<p align="left" style="font-size: 1.2em;"><strong>📫 Feel free to reach out if you have any questions or need assistance!</strong></p>
+<p align="left" style="font-size: 1.5em;"><strong>📫 Feel free to reach out if you have any questions or need assistance!</strong></p>
 
 <p align="left">
 &bull; <a href="https://www.linkedin.com/in/piotr-kaliszuk-63a9a3318/">LinkedIn</a><br>
