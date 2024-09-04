@@ -28,7 +28,7 @@
 &bull; API Documentation Tools: 📘 Swagger<br>
 &bull; Build Tools: 🛠️ Maven, 🖥️ IntelliJ IDEA<br>
 &bull; Containerization Tools: 🐳 Docker<br>
-&bull; Other: 🔐 JWT, 🗺️ Mapstruct, 🛠️ Lombok, 🐙 Git, 🌐 GitHub
+&bull; Other: 🔄 Multithreading, 🔐 JWT, 🗺️ Mapstruct, 🛠️ Lombok, 🐙 Git, 🌐 GitHub
 </p>
 
 <hr style="border-top: 1px dashed #8c8b8b;">
@@ -36,8 +36,8 @@
 <p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>🚀 Projects</strong></p>
 
 <p align="left" style="font-size: 1.2em;">
-&bull; <strong><a href="https://github.com/Kalixone/BookstoreAPP">Book Store</a>:</strong> A Java Spring-based RESTful API designed for managing online bookstores. It includes essential endpoints for adding new books, updating details, managing shopping carts, placing orders, and ensuring secure user authentication and authorization.<br><br>
-&bull; <strong><a href="https://github.com/Kalixone/CarSharingAPP">Car Sharing Service</a>:</strong> A comprehensive solution for managing vehicle rentals and car sharing operations. This project features a robust API for vehicle listing, booking management, user authentication, and payment integration through Stripe. The system also includes a Telegram bot for user interaction and notifications.
+&bull; <strong><a href="https://github.com/Kalixone/ReadSphere">Book Store</a>:</strong> A Java Spring-based RESTful API designed for managing online bookstores. It includes essential endpoints for adding new books, updating details, managing shopping carts, placing orders, and ensuring secure user authentication and authorization.<br><br>
+&bull; <strong><a href="https://github.com/Kalixone/ShareRide">Car Sharing Service</a>:</strong> A comprehensive solution for managing vehicle rentals and car sharing operations. This project features a robust API for vehicle listing, booking management, user authentication, and payment integration through Stripe. The system also includes a Telegram bot for user interaction and notifications.
 </p>
 
 <hr style="border-top: 1px dashed #8c8b8b;">
