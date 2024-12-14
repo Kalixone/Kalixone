@@ -28,7 +28,7 @@
 &bull; API Documentation Tools: 📘 Swagger<br>
 &bull; Build Tools: 🛠️ Maven, 🖥️ IntelliJ IDEA<br>
 &bull; Containerization Tools: 🐳 Docker<br>
-&bull; Other: 🔄 Multithreading, 🔐 JWT, 🗺️ Mapstruct, 🛠️ Lombok, 🐙 Git, 🌐 GitHub
+&bull; Other: 🔄 Multithreading, 🔐 JWT, 🗺️ Mapstruct, 🛠️ Lombok, 🐙 Git, 🌐 GitHub, ☁️ AWS
 </p>
 
 <hr style="border-top: 1px dashed #8c8b8b;">
