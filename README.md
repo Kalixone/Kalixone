@@ -49,8 +49,3 @@
 &bull; <a href="https://www.linkedin.com/in/piotr-kaliszuk-63a9a3318/">LinkedIn</a><br>
 &bull; <a href="mailto:piotr.kamil.kaliszuk@gmail.com">piotr.kamil.kaliszuk@gmail.com</a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/pulls/Kalixone?style=flat&label=Pull%20Requests&color=blue" alt="Pull Requests" />
-  <img src="https://img.shields.io/github/commit-activity/m/Kalixone?style=flat&label=Commits%20This%20Year&color=green" alt="Commits This Year" />
-</p>
