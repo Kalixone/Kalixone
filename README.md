@@ -50,5 +50,8 @@
 &bull; <a href="mailto:piotr.kamil.kaliszuk@gmail.com">piotr.kamil.kaliszuk@gmail.com</a>
 </p>
 
+---
+
 ![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalixone&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalixone&layout=compact&hide_border=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kalixone&hide_border=true&theme=radical)
