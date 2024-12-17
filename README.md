@@ -36,9 +36,14 @@
 <p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>🚀 Projects</strong></p>
 
 <p align="left" style="font-size: 1.2em;">
-  • <strong><a href="https://github.com/Kalixone/ReadSphere" target="_blank">ReadSphere:</a></strong> A Java Spring-based RESTful API designed for managing online bookstores. It includes essential endpoints for adding new books, updating details, managing shopping carts, placing orders, and ensuring secure user authentication and authorization.<br><br>
-  • <strong><a href="https://github.com/Kalixone/ShareRide" target="_blank">ShareRide:</a></strong> A comprehensive solution for managing vehicle rentals and car sharing operations. This project features a robust API for vehicle listing, booking management, user authentication, and payment integration through Stripe. The system also includes a Telegram bot for user interaction and notifications.<br><br>
-  • <strong><a href="https://github.com/Kalixone/JobSeeker" target="_blank">JobSeeker:</a></strong> A Java Spring-based RESTful API designed to streamline job application management for job seekers. The API includes features such as job tracking, CV generation, integrated email communication with recruiters, and external API integrations for fetching job listings and relevant articles. The system ensures robust security with role-based access control and JWT-based authentication.
+  • <strong><a href="https://github.com/Kalixone/ReadSphere" target="_blank">📖 ReadSphere:</a></strong> A Java Spring-based RESTful API designed for managing online bookstores. It includes essential endpoints for adding new books, updating details, managing shopping carts, placing orders, and ensuring secure user authentication and authorization.  
+  ![Last Commit ReadSphere](https://img.shields.io/github/last-commit/Kalixone/ReadSphere?style=for-the-badge)<br><br>
+  
+  • <strong><a href="https://github.com/Kalixone/ShareRide" target="_blank">🚗 ShareRide:</a></strong> A comprehensive solution for managing vehicle rentals and car sharing operations. This project features a robust API for vehicle listing, booking management, user authentication, and payment integration through Stripe. The system also includes a Telegram bot for user interaction and notifications.  
+  ![Last Commit ShareRide](https://img.shields.io/github/last-commit/Kalixone/ShareRide?style=for-the-badge)<br><br>
+  
+  • <strong><a href="https://github.com/Kalixone/JobSeeker" target="_blank">👩‍💻 JobSeeker:</a></strong> A Java Spring-based RESTful API designed to streamline job application management for job seekers. The API includes features such as job tracking, CV generation, integrated email communication with recruiters, and external API integrations for fetching job listings and relevant articles. The system ensures robust security with role-based access control and JWT-based authentication.  
+  ![Last Commit JobSeeker](https://img.shields.io/github/last-commit/Kalixone/JobSeeker?style=for-the-badge)
 </p>
 
 <hr style="border-top: 1px dashed #8c8b8b;">
@@ -54,4 +59,3 @@
 
 ![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalixone&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalixone&layout=compact&hide_border=true&theme=radical)
-![Piotr's Contribution Graph](https://ghchart.rshb.dev/Kalixone)
