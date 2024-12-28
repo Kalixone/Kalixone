@@ -24,7 +24,7 @@
 &bull; Frameworks: 🛠️ Spring Boot, 🔒 Spring Security<br>
 &bull; Persistence Frameworks: 🔄 Hibernate, 📊 Spring Data JPA<br>
 &bull; Database Management Tools: 📊 MySQL, 🛠️ Liquibase<br>
-&bull; Testing Tools: 🧪 JUnit 5, 🃏 Mockito<br>
+&bull; Testing Tools: 🧪 JUnit 5, 🃏 Mockito, 🌐 Postman<br>
 &bull; API Documentation Tools: 📘 Swagger<br>
 &bull; Build Tools: 🛠️ Maven, 🖥️ IntelliJ IDEA<br>
 &bull; Containerization Tools: 🐳 Docker<br>
