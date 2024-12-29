@@ -51,8 +51,7 @@ A Java Spring-based RESTful API designed to streamline job application managemen
 
 <p align="center" style="font-size: 1.5em; margin-top: 20px; font-weight: bold; color: #FF5722;"><strong>🚀 Kotlin Projects</strong></p>
 
-- 🏠 [PropertyWise](https://github.com/Kalixone/PropertyWise)  
-A Kotlin Spring-based RESTful API designed for property management, loan calculations, and user preferences. Key features include property creation, filtering, favourites, loan eligibility, rental yield calculations, email notifications, as well as the calculation of price trends per square meter for properties in various provinces over specified time periods. The system is secured with JWT-based authentication and role-based access control.<br>
+- 🏠 [PropertyWise](https://github.com/Kalixone/PropertyWise)  A Kotlin Spring-based RESTful API designed for property management, loan calculations, and user preferences. Key features include property creation, filtering, favourites, loan eligibility, rental yield calculations, email notifications, as well as the calculation of price trends per square meter for properties in various provinces over specified time periods. The system is secured with JWT-based authentication and role-based access control.<br>
 ![Last Commit PropertyWise](https://img.shields.io/github/last-commit/Kalixone/PropertyWise?style=for-the-badge)
 
 <hr style="border-top: 1px dashed #8c8b8b;">
