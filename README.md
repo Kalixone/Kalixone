@@ -20,7 +20,7 @@
 <p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>💻 Technology Stack</strong></p>
 
 <p align="left" style="font-size: 1.2em;">
-&bull; Languages: 🚀 Java, Kotlin<br>
+&bull; Languages: 🟠 Java, 🟣 Kotlin<br>
 &bull; Frameworks: 🛠️ Spring Boot, 🔒 Spring Security<br>
 &bull; Persistence Frameworks: 🔄 Hibernate, 📊 Spring Data JPA<br>
 &bull; Database Management Tools: 📊 MySQL, 🛠️ Liquibase<br>
