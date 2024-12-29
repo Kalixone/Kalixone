@@ -35,7 +35,7 @@
 
 <p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>🚀 Projects</strong></p>
 
-<p align="left" style="font-size: 1.2em; margin-top: 20px; font-weight: bold;">Java Projects</p>
+<p align="center" style="font-size: 1.5em; margin-top: 20px; font-weight: bold; color: #4CAF50;">Java Projects</p>
 
 - 📖 [ReadSphere](https://github.com/Kalixone/ReadSphere)
 A Java Spring-based RESTful API designed for managing online bookstores. It includes essential endpoints for adding new books, updating details, managing shopping carts, placing orders, and ensuring secure user authentication and authorization.  
@@ -51,7 +51,7 @@ A Java Spring-based RESTful API designed to streamline job application managemen
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
-<p align="left" style="font-size: 1.2em; margin-top: 20px; font-weight: bold;">Kotlin Projects</p>
+<p align="center" style="font-size: 1.5em; margin-top: 20px; font-weight: bold; color: #FF5722;">Kotlin Projects</p>
 
 - 🏠 [PropertyWise](https://github.com/Kalixone/PropertyWise)  
 A Kotlin Spring-based RESTful API designed for property management, loan calculations, and user preferences. Key features include property creation, filtering, favourites, loan eligibility, rental yield calculations, email notifications, as well as the calculation of price trends per square meter for properties in various provinces over specified time periods. The system is secured with JWT-based authentication and role-based access control.<br>
