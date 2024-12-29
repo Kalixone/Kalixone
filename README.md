@@ -47,9 +47,9 @@ A comprehensive solution for managing vehicle rentals and car sharing operations
 A Java Spring-based RESTful API designed to streamline job application management for job seekers. The API includes features such as job tracking, CV generation, integrated email communication with recruiters, and external API integrations for fetching job listings and relevant articles. The system ensures robust security with role-based access control and JWT-based authentication.  
 ![Last Commit JobSeeker](https://img.shields.io/github/last-commit/Kalixone/JobSeeker?style=for-the-badge)
 
-- 🏠 [PropertyWise](https://github.com/Kalixone/PropertyWise)
-A Kotlin Spring-based RESTful API designed for property management, loan calculations, and user preferences. Key features include property creation, filtering, favourites, loan eligibility, rental yield calculations, email notifications, as well as the calculation of price trends per square meter for properties in various provinces over specified time periods. The system is secured with JWT-based authentication and role-based access control.
-![Last Commit PropertyWise](https://img.shields.io/github/last-commit/Kalixone/PropertyWise?style=for-the-badge)
+- 🏠 [PropertyWise](https://github.com/Kalixone/PropertyWise)  
+A Kotlin Spring-based RESTful API designed for property management, loan calculations, and user preferences. Key features include property creation, filtering, favourites, loan eligibility, rental yield calculations, email notifications, as well as the calculation of price trends per square meter for properties in various provinces over specified time periods. The system is secured with JWT-based authentication and role-based access control.<br>
+![Last Commit PropertyWise](https://github.com/Kalixone/PropertyWise/commit)
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
