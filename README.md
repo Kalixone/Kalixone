@@ -33,39 +33,29 @@
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
-<p align="center" style="font-size: 2em; font-weight: bold; color: #2d3e50;">🚀 Projects</p>
+<p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>🚀 Projects</strong></p>
 
-<p align="center" style="font-size: 1.5em; margin-top: 20px; font-weight: bold; color: #4CAF50; background-color: #e8f5e9; padding: 10px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1); width: fit-content; margin-bottom: 20px;">Java Projects</p>
+<p align="left" style="font-size: 1.2em; margin-top: 20px; font-weight: bold;">Java Projects</p>
 
-<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 40px;">
-  <div style="max-width: 800px; text-align: left; font-size: 1.1em; padding: 10px; background-color: #f1f8e9; border-radius: 8px; box-shadow: 0px 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px; width: 100%;">
-    <p>📖 <a href="https://github.com/Kalixone/ReadSphere" target="_blank">ReadSphere</a></p>
-    <p>A Java Spring-based RESTful API designed for managing online bookstores. It includes essential endpoints for adding new books, updating details, managing shopping carts, placing orders, and ensuring secure user authentication and authorization.</p>
-    <img src="https://img.shields.io/github/last-commit/Kalixone/ReadSphere?style=for-the-badge" alt="Last Commit ReadSphere">
-  </div>
+- 📖 [ReadSphere](https://github.com/Kalixone/ReadSphere)
+A Java Spring-based RESTful API designed for managing online bookstores. It includes essential endpoints for adding new books, updating details, managing shopping carts, placing orders, and ensuring secure user authentication and authorization.  
+![Last Commit ReadSphere](https://img.shields.io/github/last-commit/Kalixone/ReadSphere?style=for-the-badge)
 
-  <div style="max-width: 800px; text-align: left; font-size: 1.1em; padding: 10px; background-color: #f1f8e9; border-radius: 8px; box-shadow: 0px 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px; width: 100%;">
-    <p>🚗 <a href="https://github.com/Kalixone/ShareRide" target="_blank">ShareRide</a></p>
-    <p>A comprehensive solution for managing vehicle rentals and car sharing operations. This project features a robust API for vehicle listing, booking management, user authentication, and payment integration through Stripe. The system also includes a Telegram bot for user interaction and notifications.</p>
-    <img src="https://img.shields.io/github/last-commit/Kalixone/ShareRide?style=for-the-badge" alt="Last Commit ShareRide">
-  </div>
+- 🚗 [ShareRide](https://github.com/Kalixone/ShareRide)
+A comprehensive solution for managing vehicle rentals and car sharing operations. This project features a robust API for vehicle listing, booking management, user authentication, and payment integration through Stripe. The system also includes a Telegram bot for user interaction and notifications.  
+![Last Commit ShareRide](https://img.shields.io/github/last-commit/Kalixone/ShareRide?style=for-the-badge)
 
-  <div style="max-width: 800px; text-align: left; font-size: 1.1em; padding: 10px; background-color: #f1f8e9; border-radius: 8px; box-shadow: 0px 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px; width: 100%;">
-    <p>👩‍💻 <a href="https://github.com/Kalixone/JobSeeker" target="_blank">JobSeeker</a></p>
-    <p>A Java Spring-based RESTful API designed to streamline job application management for job seekers. The API includes features such as job tracking, CV generation, integrated email communication with recruiters, and external API integrations for fetching job listings and relevant articles.</p>
-    <img src="https://img.shields.io/github/last-commit/Kalixone/JobSeeker?style=for-the-badge" alt="Last Commit JobSeeker">
-  </div>
-</div>
+- 👩‍💻 [JobSeeker](https://github.com/Kalixone/JobSeeker)
+A Java Spring-based RESTful API designed to streamline job application management for job seekers. The API includes features such as job tracking, CV generation, integrated email communication with recruiters, and external API integrations for fetching job listings and relevant articles. The system ensures robust security with role-based access control and JWT-based authentication.  
+![Last Commit JobSeeker](https://img.shields.io/github/last-commit/Kalixone/JobSeeker?style=for-the-badge)
 
-<p align="center" style="font-size: 1.5em; margin-top: 20px; font-weight: bold; color: #FF5722; background-color: #ffe0b2; padding: 10px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1); width: fit-content; margin-bottom: 20px;">Kotlin Projects</p>
+<hr style="border-top: 1px dashed #8c8b8b;">
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <div style="max-width: 800px; text-align: left; font-size: 1.1em; padding: 10px; background-color: #ffecb3; border-radius: 8px; box-shadow: 0px 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px; width: 100%;">
-    <p>🏠 <a href="https://github.com/Kalixone/PropertyWise" target="_blank">PropertyWise</a></p>
-    <p>A Kotlin Spring-based RESTful API designed for property management, loan calculations, and user preferences. Key features include property creation, filtering, favourites, loan eligibility, rental yield calculations, email notifications, as well as the calculation of price trends per square meter for properties in various provinces over specified time periods.</p>
-    <img src="https://img.shields.io/github/last-commit/Kalixone/PropertyWise?style=for-the-badge" alt="Last Commit PropertyWise">
-  </div>
-</div>
+<p align="left" style="font-size: 1.2em; margin-top: 20px; font-weight: bold;">Kotlin Projects</p>
+
+- 🏠 [PropertyWise](https://github.com/Kalixone/PropertyWise)  
+A Kotlin Spring-based RESTful API designed for property management, loan calculations, and user preferences. Key features include property creation, filtering, favourites, loan eligibility, rental yield calculations, email notifications, as well as the calculation of price trends per square meter for properties in various provinces over specified time periods. The system is secured with JWT-based authentication and role-based access control.<br>
+![Last Commit PropertyWise](https://img.shields.io/github/last-commit/Kalixone/PropertyWise?style=for-the-badge)
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
