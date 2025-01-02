@@ -7,12 +7,12 @@
 <p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>🔍 About Me</strong></p>
 
 <p align="left" style="font-size: 1.2em;">
-&bull; 🎓 Master's degree in Administration with a specialization in Criminology and Related Sciences<br>
-&bull; 📱  Currently learning to develop Android applications using Kotlin, expanding my skills to mobile development<br>
-&bull; 🌱 Constantly seeking to expand my knowledge and keep abreast of the latest technological advancements<br>
-&bull; 🤝 Excited about collaborating and energized by resolving intricate problems<br>
-&bull; 🌐 English (B2 - Upper-Intermediate)<br>
-&bull; 🌐 Polish (native)
+  &bull; 🎓 <span style="font-size: 1.5em;">Master's degree in Administration with a specialization in Criminology and Related Sciences</span><br>
+  &bull; 📱 <span style="font-size: 1.5em;">Currently learning to develop Android applications using Kotlin, expanding my skills to mobile development</span><br>
+  &bull; 🌱 <span style="font-size: 1.5em;">Constantly seeking to expand my knowledge and keep abreast of the latest technological advancements</span><br>
+  &bull; 🤝 <span style="font-size: 1.5em;">Excited about collaborating and energized by resolving intricate problems</span><br>
+  &bull; 🌐 <span style="font-size: 1.5em;">English (B2 - Upper-Intermediate)</span><br>
+  &bull; 🌐 <span style="font-size: 1.5em;">Polish (native)</span>
 </p>
 
 <hr style="border-top: 1px dashed #8c8b8b;">
