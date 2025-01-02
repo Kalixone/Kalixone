@@ -14,26 +14,9 @@
   &bull; 🌐 <span style="font-size: 1.5em;">Polish (native)</span>
 </p>
 
-<p align="left" style="font-size: 1.5em; margin-top: 20px; font-weight: bold; padding: 15px; border: 3px solid #e76f51; background-color: #f4a261; border-radius: 8px; display: inline-block; animation: pulse 2s infinite;">
-  📱 Currently learning to develop Android applications using Kotlin, expanding my skills to mobile development.
+<p align="left" style="font-size: 1.2em; margin-top: 20px; font-weight: bold; padding: 15px; background-color: #e76f51; color: white; border-radius: 8px; display: inline-block; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);" class="highlight-text">
+                📱 Currently learning to develop Android applications using Kotlin, expanding my skills to mobile development.
 </p>
-
-<style>
-  @keyframes pulse {
-    0% {
-      transform: scale(1);
-      box-shadow: 0 0 10px rgba(255, 87, 34, 0.6);
-    }
-    50% {
-      transform: scale(1.05);
-      box-shadow: 0 0 20px rgba(255, 87, 34, 0.9);
-    }
-    100% {
-      transform: scale(1);
-      box-shadow: 0 0 10px rgba(255, 87, 34, 0.6);
-    }
-  }
-</style>
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
