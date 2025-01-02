@@ -8,7 +8,7 @@
 
 <p align="left" style="font-size: 1.2em;">
 &bull; 🎓 Master's degree in Administration with a specialization in Criminology and Related Sciences<br>
-&bull; 💼 Currently enhancing my expertise through a comprehensive Java Developer training course<br>
+&bull; 📱 Currently learning to develop Android applications using Kotlin, expanding my skills to mobile development<br>
 &bull; 🌱 Constantly seeking to expand my knowledge and keep abreast of the latest technological advancements<br>
 &bull; 🤝 Excited about collaborating and energized by resolving intricate problems<br>
 &bull; 🌐 English (B2 - Upper-Intermediate)<br>
