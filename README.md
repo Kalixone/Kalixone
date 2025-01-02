@@ -14,7 +14,7 @@
   &bull; 🌐 <span style="font-size: 1.5em;">Polish (native)</span>
 </p>
 
-<p align="left" style="font-size: 1.2em; margin-top: 20px; font-weight: bold; color: #ffffff; background-color: #e76f51; padding: 10px; border-radius: 5px; display: inline-block;">
+<p align="left" style="font-size: 1.2em; margin-top: 20px; font-weight: bold; padding: 15px; background-color: #e76f51; color: white; border-radius: 8px; display: inline-block; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);" class="highlight-text">
   📱 Currently learning to develop Android applications using Kotlin, expanding my skills to mobile development.
 </p>
 
