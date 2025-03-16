@@ -59,6 +59,14 @@ A Java Spring-based RESTful API designed to streamline job application managemen
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
+<p align="center" style="font-size: 1.5em; margin-top: 20px; font-weight: bold; color: #FF5722;"><strong>🚀 CSS & HTML Projects</strong></p>
+
+- 🎨 [DigitalResume](https://github.com/Kalixone/DigitalResume)  
+A responsive personal resume website showcasing my skills and experience as a developer. Built with HTML, CSS, and some JavaScript to create an interactive and visually appealing online presence. The website highlights my background, projects, and contact details, offering recruiters an engaging way to get to know me.  
+![Last Commit DigitalResume](https://img.shields.io/github/last-commit/Kalixone/DigitalResume?style=for-the-badge)
+
+<hr style="border-top: 1px dashed #8c8b8b;">
+
 <p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>📫 Feel free to reach out if you have any questions or need assistance!</strong></p>
 
 <p align="left" style="font-size: 1.2em;">
