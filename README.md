@@ -14,10 +14,6 @@
   &bull; 🌐 <span style="font-size: 1.5em;">Polish (native)</span>
 </p>
 
-<p align="left" style="font-size: 1.2em; margin-top: 20px; font-weight: bold; padding: 15px; background-color: #e76f51; color: white; border-radius: 8px; display: inline-block; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);" class="highlight-text">
-                📱 Currently learning to develop Android applications using Kotlin, expanding my skills to mobile development.
-</p>
-
 <hr style="border-top: 1px dashed #8c8b8b;">
 
 <p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>💻 Technology Stack</strong></p>
