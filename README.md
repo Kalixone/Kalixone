@@ -8,6 +8,13 @@
 
 
 
+<p align="left" style="font-size: 1.2em;">
+  &bull; 🎓 <span style="font-size: 1.5em;">Master's degree in Administration with a specialization in Criminology and Related Sciences</span><br>
+  &bull; 🌱 <span style="font-size: 1.5em;">Constantly seeking to expand my knowledge and keep abreast of the latest technological advancements</span><br>
+  &bull; 🤝 <span style="font-size: 1.5em;">Excited about collaborating and energized by resolving intricate problems</span><br>
+  &bull; 🌐 <span style="font-size: 1.5em;">English (B2 - Upper-Intermediate)</span><br>
+  &bull; 🌐 <span style="font-size: 1.5em;">Polish (native)</span>
+</p>
 
 
 
