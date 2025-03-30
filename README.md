@@ -14,6 +14,18 @@
   &bull; 🌐 <span style="font-size: 1.5em;">Polish (native)</span>
 </p>
 
+<hr style="border-top: 1px dashed #8c8b8b;"> <p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>📚 Kursy</strong></p> <p align="left" style="font-size: 1.2em;"> &bull; 🎓 <span style="font-size: 1.5em;">Kurs Backend Java w Mate Academy</span><br> Kurs oferujący dogłębną wiedzę na temat zaawansowanych zagadnień w Javie, rozwój praktycznych umiejętności oraz realizację projektów związanych z tworzeniem aplikacji backendowych.<br> <a href="https://mate.academy/pl/courses/parttime" class="course-link">Zobacz kurs</a><br><br>
+• 📚 <span style="font-size: 1.5em;">Head First Java</span><br> Książka przyjazna dla początkujących, która w prosty sposób wyjaśnia zagadnienia związane z programowaniem w Javie.<br> <a href="https://helion.pl/ksiazki/head-first-java-3rd-edition-kathy-sierra-bert-bates-trisha-gee,e_2rkk.htm" class="course-link">Zobacz książkę</a><br><br>
+
+• 💻 <span style="font-size: 1.5em;">Struktury Danych i Algorytmy: Dogłębne Studium w Javie</span><br> Kurs wprowadzający w zaawansowane zagadnienia struktur danych i algorytmów, doskonały dla osób, które chcą poprawić swoje umiejętności rozwiązywania problemów.<br> <a href="https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java" class="course-link">Zobacz kurs</a><br><br>
+
+• 📱 <span style="font-size: 1.5em;">Android Development from Scratch</span><br> Kurs dla początkujących, który nauczy Cię jak stworzyć aplikację mobilną w systemie Android od podstaw.<br> <a href="https://www.udemy.com/course/bojarski-kurs-android" class="course-link">Zobacz kurs</a><br><br>
+
+• 🖥️ <span style="font-size: 1.5em;">Kotlin & Java: Kompletny Przewodnik z Porównaniem</span><br> Kurs kompleksowo omawiający Jave i Kotlin, z dokładnym porównaniem obu języków.<br> <a href="https://www.udemy.com/course/bojarski-kurs-kotlin" class="course-link">Zobacz kurs</a><br><br>
+
+• 🌐 <span style="font-size: 1.5em;">HTML & CSS: 7-dniowy Bootcamp Web Developmentu</span><br> Naucz się podstaw HTML i CSS w zaledwie 7 dni. Ten praktyczny kurs jest idealny dla początkujących, którzy chcą tworzyć piękne i responsywne strony internetowe.<br> <a href="https://www.udemy.com/course/learn-html-and-css-in-7-days-web-developer-bootcamp" class="course-link">Zobacz kurs</a><br><br>
+
+
 <hr style="border-top: 1px dashed #8c8b8b;">
 
 <p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>💻 Technology Stack</strong></p>
