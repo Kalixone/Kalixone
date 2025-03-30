@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 1.5em; margin-bottom: 0;"><strong>Hi there! 👋 I'm Piotr</strong></p>
+<p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>Hi there! 👋 I'm Piotr</strong></p>
 
 <p align="left">Hi! I'm a Java Developer with a passion for crafting clean and effective code. Beyond coding challenges, I enjoy immersing myself in movie critiques and discussions, seeing how storytelling in films can inform and inspire my approach to software development.</p>
 
