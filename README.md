@@ -4,7 +4,7 @@
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
-<p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>🔍 About Me</strong></p>
+<p align="center" style="font-size: 1.5em; margin-bottom: 0;"><strong>🔍 About Me</strong></p>
 
 <p align="left" style="font-size: 1.2em;">
   &bull; 🎓 <span style="font-size: 1.5em;">Master's degree in Administration with a specialization in Criminology and Related Sciences</span><br>
@@ -16,10 +16,7 @@
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
-
-
-
-<p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>📚 Courses</strong></p>
+<p align="center" style="font-size: 1.5em; margin-bottom: 0;"><strong>📚 Courses</strong></p>
 
 <p align="left">I've completed a variety of courses designed to enhance my skills in programming, backend development, web design, and more. From mastering Java and Kotlin to building responsive websites, each course has added valuable knowledge to my toolkit.</p>
 
@@ -28,9 +25,6 @@
 </p>
 
 <hr style="border-top: 1px dashed #8c8b8b;">
-
-
-
 
 <p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>💻 Technology Stack</strong></p>
 
