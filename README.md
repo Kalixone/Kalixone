@@ -16,8 +16,6 @@
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
-<hr style="border-top: 1px dashed #8c8b8b;">
-
 <p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>💻 Technology Stack</strong></p>
 
 <p align="left" style="font-size: 1.2em;">
