@@ -16,6 +16,22 @@
 
 <hr style="border-top: 1px dashed #8c8b8b;">
 
+
+
+
+<p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>📚 Courses</strong></p>
+
+<p align="left">I've completed a variety of courses designed to enhance my skills in programming, backend development, web design, and more. From mastering Java and Kotlin to building responsive websites, each course has added valuable knowledge to my toolkit.</p>
+
+<p align="center">
+  <a href="https://kalixone.github.io/DigitalResume/courses.html" style="display: inline-block; padding: 10px 20px; background-color: #FF5722; color: white; text-decoration: none; border-radius: 8px; font-size: 1.2em;">🔗 Explore All Courses</a>
+</p>
+
+<hr style="border-top: 1px dashed #8c8b8b;">
+
+
+
+
 <p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>💻 Technology Stack</strong></p>
 
 <p align="left" style="font-size: 1.2em;">
