@@ -21,14 +21,14 @@
 <p align="left" style="font-size: 1.2em;">
 &bull; Languages: 🟠 Java, 🟣 Kotlin<br>
 &bull; Frontend Tools: 📑 HTML, 🎨 CSS<br>
-&bull; Frameworks: 🛠️ Spring Boot, 🔒 Spring Security<br>
+&bull; Frameworks: 🛠️ Spring Boot, 🔒 Spring Security, 🖼️ JavaFX<br>
 &bull; Persistence Frameworks: 🔄 Hibernate, 📊 Spring Data JPA<br>
 &bull; Database Management Tools: 📊 MySQL, 🛠️ Liquibase<br>
 &bull; Testing Tools: 🧪 JUnit 5, 🃏 Mockito, 🌐 Postman<br>
 &bull; API Documentation Tools: 📘 Swagger<br>
 &bull; Build Tools: 🛠️ Maven, 🖥️ IntelliJ IDEA, 🤖 Android Studio, ⚙️ Visual Studio Code<br>
 &bull; Containerization Tools: 🐳 Docker<br>
-&bull; Other: 🔄 Multithreading, 🔐 JWT, 🗺️ Mapstruct, 🛠️ Lombok, 🐙 Git, 🌐 GitHub, ☁️ AWS, 🏃‍♂️ Scrum, 📝 Jira<br>
+&bull; Other: 🔄 Multithreading, 🔐 JWT, 🗺️ Mapstruct, 🛠️ Lombok, 🐙 Git, 🌐 GitHub, ☁️ AWS, 🏃‍♂️ Scrum, 📝 Jira, 🕸️ Web Scraping<br>
 &bull; Android Development (little experience): 🗄️ Room, 🔄 Retrofit, 🛠️ Dagger, ✏️ Jetpack Compose
 </p>
 
