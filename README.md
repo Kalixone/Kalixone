@@ -16,6 +16,7 @@
   &bull; 🌐 <span style="font-size: 1.5em;">Polish (native)</span>
 </p>
 
+<hr style="border-top: 1px dashed #8c8b8b;">
 
 
 <p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>📚 Courses</strong></p>
