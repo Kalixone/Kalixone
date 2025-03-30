@@ -22,59 +22,74 @@
 
 <p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>📚 Courses</strong></p>
 
-<p align="left" style="font-size: 1.2em;">
-  &bull; 🎓 <span style="font-size: 1.5em;">Backend Java Course at Mate Academy</span><br>
-  A course offering deep knowledge of advanced Java topics, practical skills development, and building projects related to backend application development.<br> 
-  <a href="https://mate.academy/pl/courses/parttime" class="course-link">See the course</a><br><br>
+<div style="font-size: 1.2em; line-height: 1.6;">
+  <div style="margin-bottom: 1.5em;">
+    &bull; 🎓 <span style="font-size: 1.5em;">Backend Java Course at Mate Academy</span><br>
+    A course offering deep knowledge of advanced Java topics, practical skills development, and building projects related to backend application development.<br>
+    <a href="https://mate.academy/pl/courses/parttime" style="text-decoration: none;">
+      <button style="margin-top: 0.5em; padding: 0.4em 0.8em; background-color: #007bff; color: white; border: none; border-radius: 5px;">See the course</button>
+    </a>
+  </div>
 
-  &bull; 📚 <span style="font-size: 1.5em;">Head First Java</span><br>
-  A beginner-friendly book that explains Java programming concepts in a simple and engaging way.<br> 
-  <a href="https://helion.pl/ksiazki/head-first-java-3rd-edition-kathy-sierra-bert-bates-trisha-gee,e_2rkk.htm" class="course-link">See the book</a><br><br>
+  <div style="margin-bottom: 1.5em;">
+    &bull; 📚 <span style="font-size: 1.5em;">Head First Java</span><br>
+    A beginner-friendly book that explains Java programming concepts in a simple and engaging way.<br>
+    <a href="https://helion.pl/ksiazki/head-first-java-3rd-edition-kathy-sierra-bert-bates-trisha-gee,e_2rkk.htm" style="text-decoration: none;">
+      <button style="margin-top: 0.5em; padding: 0.4em 0.8em; background-color: #007bff; color: white; border: none; border-radius: 5px;">See the book</button>
+    </a>
+  </div>
 
-  &bull; 💻 <span style="font-size: 1.5em;">Data Structures and Algorithms: Deep Dive in Java</span><br>
-  A course introducing advanced data structures and algorithms, perfect for those looking to improve their problem-solving skills.<br> 
-  <a href="https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java" class="course-link">See the course</a><br><br>
+  <div style="margin-bottom: 1.5em;">
+    &bull; 💻 <span style="font-size: 1.5em;">Data Structures and Algorithms: Deep Dive in Java</span><br>
+    A course introducing advanced data structures and algorithms, perfect for those looking to improve their problem-solving skills.<br>
+    <a href="https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java" style="text-decoration: none;">
+      <button style="margin-top: 0.5em; padding: 0.4em 0.8em; background-color: #007bff; color: white; border: none; border-radius: 5px;">See the course</button>
+    </a>
+  </div>
 
-  &bull; 📱 <span style="font-size: 1.5em;">Android Development from Scratch</span><br>
-  A beginner-friendly course that teaches you how to build a mobile application in Android from scratch.<br> 
-  <a href="https://www.udemy.com/course/bojarski-kurs-android" class="course-link">See the course</a><br><br>
+  <div style="margin-bottom: 1.5em;">
+    &bull; 📱 <span style="font-size: 1.5em;">Android Development from Scratch</span><br>
+    A beginner-friendly course that teaches you how to build a mobile application in Android from scratch.<br>
+    <a href="https://www.udemy.com/course/bojarski-kurs-android" style="text-decoration: none;">
+      <button style="margin-top: 0.5em; padding: 0.4em 0.8em; background-color: #007bff; color: white; border: none; border-radius: 5px;">See the course</button>
+    </a>
+  </div>
 
-  &bull; 🖥️ <span style="font-size: 1.5em;">Kotlin & Java: Complete Guide with Comparison</span><br>
-  A comprehensive course covering Java and Kotlin with a detailed comparison between the two languages.<br> 
-  <a href="https://www.udemy.com/course/bojarski-kurs-kotlin" class="course-link">See the course</a><br><br>
+  <div style="margin-bottom: 1.5em;">
+    &bull; 🖥️ <span style="font-size: 1.5em;">Kotlin & Java: Complete Guide with Comparison</span><br>
+    A comprehensive course covering Java and Kotlin with a detailed comparison between the two languages.<br>
+    <a href="https://www.udemy.com/course/bojarski-kurs-kotlin" style="text-decoration: none;">
+      <button style="margin-top: 0.5em; padding: 0.4em 0.8em; background-color: #007bff; color: white; border: none; border-radius: 5px;">See the course</button>
+    </a>
+  </div>
 
-  &bull; 🌐 <span style="font-size: 1.5em;">HTML & CSS: 7-Day Web Development Bootcamp</span><br>
-  Learn the basics of HTML and CSS in just 7 days. This hands-on course is perfect for beginners who want to create beautiful and responsive websites.<br> 
-  <a href="https://www.udemy.com/course/learn-html-and-css-in-7-days-web-developer-bootcamp" class="course-link">See the course</a><br><br>
+  <div style="margin-bottom: 1.5em;">
+    &bull; 🌐 <span style="font-size: 1.5em;">HTML & CSS: 7-Day Web Development Bootcamp</span><br>
+    Learn the basics of HTML and CSS in just 7 days. This hands-on course is perfect for beginners who want to create beautiful and responsive websites.<br>
+    <a href="https://www.udemy.com/course/learn-html-and-css-in-7-days-web-developer-bootcamp" style="text-decoration: none;">
+      <button style="margin-top: 0.5em; padding: 0.4em 0.8em; background-color: #007bff; color: white; border: none; border-radius: 5px;">See the course</button>
+    </a>
+  </div>
 
-  &bull; 📈 <span style="font-size: 1.5em;">Agile Development: Understanding and Practice</span><br>
-  A course focused on Agile methodology, covering project management and effective management of development teams.<br> 
-  <a href="https://www.udemy.com/course/agile-development-understanding-and-practice" class="course-link">See the course</a><br><br>
+  <div style="margin-bottom: 1.5em;">
+    &bull; 📈 <span style="font-size: 1.5em;">Agile Development: Understanding and Practice</span><br>
+    A course focused on Agile methodology, covering project management and effective management of development teams.<br>
+    <a href="https://www.udemy.com/course/agile-development-understanding-and-practice" style="text-decoration: none;">
+      <button style="margin-top: 0.5em; padding: 0.4em 0.8em; background-color: #007bff; color: white; border: none; border-radius: 5px;">See the course</button>
+    </a>
+  </div>
 
-  &bull; 🔐 <span style="font-size: 1.5em;">Web Application Security</span><br>
-  A course dedicated to techniques for ensuring web application security, preventing attacks, and keeping data safe.<br> 
-  <a href="https://www.udemy.com/course/web-application-security" class="course-link">See the course</a><br><br>
-</p>
+  <div style="margin-bottom: 1.5em;">
+    &bull; 🔐 <span style="font-size: 1.5em;">Web Application Security</span><br>
+    A course dedicated to techniques for ensuring web application security, preventing attacks, and keeping data safe.<br>
+    <a href="https://www.udemy.com/course/web-application-security" style="text-decoration: none;">
+      <button style="margin-top: 0.5em; padding: 0.4em 0.8em; background-color: #007bff; color: white; border: none; border-radius: 5px;">See the course</button>
+    </a>
+  </div>
+</div>
 
 
 
-
-
-
-
-
-
-
-<hr style="border-top: 1px dashed #8c8b8b;"> <p align="left" style="font-size: 1.5em; margin-bottom: 0;"><strong>📚 Kursy</strong></p> <p align="left" style="font-size: 1.2em;"> &bull; 🎓 <span style="font-size: 1.5em;">Kurs Backend Java w Mate Academy</span><br> Kurs oferujący dogłębną wiedzę na temat zaawansowanych zagadnień w Javie, rozwój praktycznych umiejętności oraz realizację projektów związanych z tworzeniem aplikacji backendowych.<br> <a href="https://mate.academy/pl/courses/parttime" class="course-link">Zobacz kurs</a><br><br>
-• 📚 <span style="font-size: 1.5em;">Head First Java</span><br> Książka przyjazna dla początkujących, która w prosty sposób wyjaśnia zagadnienia związane z programowaniem w Javie.<br> <a href="https://helion.pl/ksiazki/head-first-java-3rd-edition-kathy-sierra-bert-bates-trisha-gee,e_2rkk.htm" class="course-link">Zobacz książkę</a><br><br>
-
-• 💻 <span style="font-size: 1.5em;">Struktury Danych i Algorytmy: Dogłębne Studium w Javie</span><br> Kurs wprowadzający w zaawansowane zagadnienia struktur danych i algorytmów, doskonały dla osób, które chcą poprawić swoje umiejętności rozwiązywania problemów.<br> <a href="https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java" class="course-link">Zobacz kurs</a><br><br>
-
-• 📱 <span style="font-size: 1.5em;">Android Development from Scratch</span><br> Kurs dla początkujących, który nauczy Cię jak stworzyć aplikację mobilną w systemie Android od podstaw.<br> <a href="https://www.udemy.com/course/bojarski-kurs-android" class="course-link">Zobacz kurs</a><br><br>
-
-• 🖥️ <span style="font-size: 1.5em;">Kotlin & Java: Kompletny Przewodnik z Porównaniem</span><br> Kurs kompleksowo omawiający Jave i Kotlin, z dokładnym porównaniem obu języków.<br> <a href="https://www.udemy.com/course/bojarski-kurs-kotlin" class="course-link">Zobacz kurs</a><br><br>
-
-• 🌐 <span style="font-size: 1.5em;">HTML & CSS: 7-dniowy Bootcamp Web Developmentu</span><br> Naucz się podstaw HTML i CSS w zaledwie 7 dni. Ten praktyczny kurs jest idealny dla początkujących, którzy chcą tworzyć piękne i responsywne strony internetowe.<br> <a href="https://www.udemy.com/course/learn-html-and-css-in-7-days-web-developer-bootcamp" class="course-link">Zobacz kurs</a><br><br>
 
 
 <hr style="border-top: 1px dashed #8c8b8b;">
